@@ -1,0 +1,55 @@
+/*에스코어 드림 폰트*/
+@font-face {
+	font-family:'S-Core Dream';
+	font-weight:100;
+	src: local('S-Core Dream1'), local('SCDream1'),
+	   url('../../S-Core_Dream_OTF/SCDream1.otf') format('opentype')
+}
+@font-face {
+	font-family:'에스코어드림';
+	font-weight:200;
+	src: local('S-Core Dream2'), local('에스코어드림2'),
+	   url('../../S-Core_Dream_OTF/SCDream2.otf') format('opentype')
+}
+@font-face {
+	font-family:'에스코어드림';
+	font-weight:300;
+	src: local('S-Core Dream3'), local('에스코어드림3'),
+	   url('../../S-Core_Dream_OTF/SCDream3.otf') format('opentype')
+}
+@font-face {
+	font-family:'에스코어드림';
+	font-weight:400;
+	src: local('S-Core Dream4'), local('에스코어드림4'),
+	   url('../../S-Core_Dream_OTF/SCDream4.otf') format('opentype')
+}
+@font-face {
+	font-family:'에스코어드림';
+	font-weight:500;
+	src: local('S-Core Dream5'), local('에스코어드림5'),
+	   url('../../S-Core_Dream_OTF/SCDream5.otf') format('opentype')
+}
+@font-face {
+	font-family:'에스코어드림';
+	font-weight:600;
+	src: local('S-Core Dream6'), local('에스코어드림6'),
+	   url('../../S-Core_Dream_OTF/SCDream6.otf') format('opentype')
+}
+@font-face {
+	font-family:'에스코어드림';
+	font-weight:700;
+	src: local('S-Core Dream7'), local('에스코어드림7'),
+	   url('../../S-Core_Dream_OTF/SCDream7.otf') format('opentype')
+}
+@font-face {
+	font-family:'에스코어드림';
+	font-weight:800;
+	src: local('S-Core Dream8'), local('에스코어드림8'),
+	   url('../../S-Core_Dream_OTF/SCDream8.otf') format('opentype')
+}
+@font-face {
+	font-family:'에스코어드림';
+	font-weight:900;
+	src: local('S-Core Dream9'), local('에스코어드림9'),
+	   url('../../S-Core_Dream_OTF/SCDream9.otf') format('opentype')
+}
